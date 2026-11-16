@@ -1,0 +1,16 @@
+FLOOD RESCUE PLATFORM - WINDOWS QUICK START
+
+1. Open this folder in VS Code.
+2. Terminal > New Terminal.
+3. Run: npm install
+4. Run: npm run dev
+5. Open: http://localhost:3000
+
+Optional sample data:
+Stop server with Ctrl+C, run: npm run db:seed
+Then run: npm run dev
+
+Demo admin: admin@floodrescue.demo
+Demo citizen: citizen@floodrescue.demo
+Password: Rescue@123
+Local demo only. Change credentials and secrets before deployment.

@@ -1,0 +1,11 @@
+node_modules
+.next
+out
+.env
+.env.local
+prisma/*.db
+prisma/*.db-journal
+.DS_Store
+*.log
+prisma/dev.db
+package-lock.json
