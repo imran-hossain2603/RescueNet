@@ -8,4 +8,4 @@ prisma/*.db-journal
 .DS_Store
 *.log
 prisma/dev.db
-package-lock.json
+# package-lock.json
